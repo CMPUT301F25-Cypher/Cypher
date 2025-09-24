@@ -1,17 +1,27 @@
-public class Circle extends Shape {
-    private int radius;
+public class Square extends Shape {
+    private int sideLength;
     
-    public Circle(int x, int y, int radius) {
+    public Square(int x, int y, int sideLength) {
         this.x = x;
         this.y = y;
-        this.radius = radius;
+        this.sideLength = sideLength;
     }
     
-    public int getRadius() {
-        return radius;
+    public int getSideLength() {
+        return sideLength;
     }
     
-    public void setRadius(int radius) {
-        this.radius = radius;
+    public void setSideLength(int sideLength) {
+        this.sideLength = sideLength;
+    }
+    
+    // Optional: method to calculate area
+    public int getArea() {
+        return sideLength * sideLength;
+    }
+    
+    // Optional: method to calculate perimeter
+    public int getPerimeter() {
+        return 4 * sideLength;
     }
 }
