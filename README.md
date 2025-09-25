@@ -8,24 +8,24 @@
 > - **CCID:** `mjoshi3`
 
 - Student 2 of 6
-- **Full Name:**
-- **CCID:**
+> - **Full Name:**
+> - **CCID:**
 
 - Student 3 of 6
-- **Full Name:**
-- **CCID:**
+> - **Full Name:**
+> - **CCID:**
 
 - Student 4 of 6
-- **Full Name:**
-- **CCID:**
+> - **Full Name:**
+> - **CCID:**
 
 - Student 5 of 6
-- **Full Name:**
-- **CCID:**
+> - **Full Name:**
+> - **CCID:**
 
 - Student 6 of 6
-- **Full Name:**
-- **CCID:**
+> - **Full Name:**
+> - **CCID:**
 
 
   
