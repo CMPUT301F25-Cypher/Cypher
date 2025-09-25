@@ -4,8 +4,8 @@
 ## Students Details
 
 - Student 1 of 6
-- **Full Name:** `Manas Joshi`
-- **CCID:** `mjoshi3`
+> - **Full Name:** `Manas Joshi`
+> - **CCID:** `mjoshi3`
 
 - Student 2 of 6
 - **Full Name:**
