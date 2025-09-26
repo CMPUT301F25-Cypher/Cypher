@@ -1,7 +1,9 @@
+package com.example.cypher;
 public class Square extends Shape {
     private int sideLength;
     
     public Square(int x, int y, int sideLength) {
+        super(x, y);
         this.x = x;
         this.y = y;
         this.sideLength = sideLength;

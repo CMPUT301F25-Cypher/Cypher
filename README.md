@@ -16,8 +16,8 @@
 > - **CCID:** kabir3
 
 - Student 4 of 6
-> - **Full Name:** Kanav Dutta  
-> - **CCID:** 1827703
+> - **Full Name:** 
+> - **CCID:** 
 
 - Student 5 of 6
 > - **Full Name:**
