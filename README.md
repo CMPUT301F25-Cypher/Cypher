@@ -24,5 +24,5 @@
 > - **CCID:** kdutta1
 
 - Student 6 of 6
-> - **Full Name:*Pratyush Mugrai*
-> - **CCID:*mugrai*
+> - **Full Name:**Pratyush Mugrai
+> - **CCID:**mugrai
