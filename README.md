@@ -16,8 +16,8 @@
 > - **CCID:** kabir3
 
 - Student 4 of 6
-> - **Full Name:** 
-> - **CCID:** 
+> - **Full Name:**  Vrinda Arora  
+> - **CCID:** vrinda2
 
 - Student 5 of 6
 > - **Full Name:**
