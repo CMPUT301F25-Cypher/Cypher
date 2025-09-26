@@ -8,8 +8,8 @@
 > - **CCID:** `mjoshi3`
 
 - Student 2 of 6
-> - **Full Name:**
-> - **CCID:**
+> - **Full Name:** Tharushi Hewaarachchi
+> - **CCID:** hewaaraac
 
 - Student 3 of 6
 > - **Full Name:**
