@@ -1,4 +1,5 @@
 package com.example.cypher;
+
 public class Square extends Shape {
     private int sideLength;
     
