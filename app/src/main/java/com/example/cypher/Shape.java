@@ -2,8 +2,9 @@ package com.example.cypher;
 
 public abstract class Shape {
 
-    protected int x;
-    protected int y;
+    private int x; 
+    private int y; 
+    private String color = "blue"; 
 
     private String color = "purple";
 
@@ -26,5 +27,12 @@ public abstract class Shape {
 
     public void setY(int y) {
         this.y = y;
+    }
+    public String getColor() {
+        return color;
+    }
+
+    public void setColor(String color) {
+        this.color = color;
     }
 }
