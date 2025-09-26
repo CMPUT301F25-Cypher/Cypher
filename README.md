@@ -9,7 +9,7 @@
 
 - Student 2 of 6
 > - **Full Name:** Tharushi Hewaarachchi
-> - **CCID:** hewaaraac
+> - **CCID:** hewaarac
 
 - Student 3 of 6
 > - **Full Name:**
