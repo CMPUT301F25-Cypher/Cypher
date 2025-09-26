@@ -12,8 +12,8 @@
 > - **CCID:** hewaarac
 
 - Student 3 of 6
-> - **Full Name:**
-> - **CCID:**
+> - **Full Name:** Kabir Gupta
+> - **CCID:** kabir3
 
 - Student 4 of 6
 > - **Full Name:**
