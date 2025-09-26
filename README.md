@@ -20,8 +20,8 @@
 > - **CCID:** vrinda2
 
 - Student 5 of 6
-> - **Full Name:**
-> - **CCID:**
+> - **Full Name:** Kanav Dutta
+> - **CCID:** kdutta1
 
 - Student 6 of 6
 > - **Full Name:**
